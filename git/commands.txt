@@ -1,0 +1,655 @@
+    1  uname
+    2  unmae -v
+    3  uname -v
+    4  uname man
+    5  man uname
+    6  uname -a
+    7  uname -r
+    8  uname -i
+    9  uname -h
+   10  ping preeti-lnx
+   11  exit
+   12  id
+   13  who
+   14  ls
+   15  cd dowloads
+   16  ls
+   17  cd ls
+   18  cd Downloads/
+   19  ls
+   20  sudo apt-get install build-essential linux-headers-`uname -r`
+   21  uname
+   22  uname -r
+   23  uname -a
+   24  hostname
+   25  sudo apt-get install build-essential linux-headers-`uname -r`
+   26  ls
+   27  ls -lrt
+   28  chmod +x VMware-Player-5.0.4-1945795.x86_64.bundle
+   29  ls -l
+   30  sudo ./VMware-Player-5.0.4-1945795.x86_64.bundle
+   31  ls
+   32  ls -l
+   33  ls
+   34  ls -l
+   35  ifconfig
+   36  ls
+   37  ls -l
+   38  df -kh
+   39  sudo su 
+   40  sudo su
+   41  pwd
+   42  sudo su
+   43  cd /downloads//VM/Windows7/VMWARE/
+   44  ls
+   45  ls -lh
+   46  ls
+   47  ls -lh
+   48  df -kh
+   49  ls -lh
+   50  df -kh .
+   51  df -kh /downloads/
+   52  sudo su
+   53  exit
+   54  ping sun
+   55  ping 172.16.21.128
+   56  ifconfig
+   57  ping sun
+   58  ssh 192.168.1.137
+   59  sudo  cd /etc
+   60  cd /etc
+   61  sudo vi hosts
+   62  ping pluto
+   63  sudo vi hosts
+   64  ifconfig
+   65  ifconfig | head
+   66  cat host
+   67  cat hosts
+   68  cd /vol
+   69  ls
+   70  cd vmshare
+   71  ls
+   72  cd ..
+   73  ls
+   74  pwd
+   75  cd 
+   76  cd
+   77  ls
+   78  d vmware/
+   79  ;s
+   80  ls 
+   81  cd vmware/
+   82  ls
+   83  mkdir sparasar-T410
+   84  cd sparasar-T410/
+   85  df -kh
+   86  top
+   87  sudo su
+   88  cat /etc/sudoers
+   89  su -
+   90  sudo su
+   91  su -
+   92  su root
+   93  sudo su
+   94  ls -l 
+   95  ifconfig
+   96  cat /etc/hosts
+   97  ping sun
+   98  ssh sun
+   99  ssh pluto
+  100  cat /etc/hosts
+  101  ssh sun
+  102  df
+  103  cd  /media/MAPPLE/
+  104  sudo su
+  105  cd /tmp/
+  106  ls
+  107  scp jobs.tz sun:/tmp
+  108  cd ..
+  109  ls -l
+  110  cd media
+  111  ls
+  112  cd MAPPLE/
+  113  sudo su
+  114  cd 
+  115  cd Downloads/
+  116  tar xzvf install_flash_player_11_linux.x86_64.tar.gz 
+  117  ls
+  118  sudo cp -R usr/* /usr/
+  119  find . -name libflashplayer.so
+  120  sudo cp libflashplayer.so /usr/lib/mozilla/plugins/
+  121  rm libflashplayer.so 
+  122  rm -rf usr/
+  123  sudo add-apt-repository ppa:mjblenner/ppa-hal
+  124  sudo apt-get update && sudo apt-get install hal libhal1
+  125  ssh root@sun
+  126  ssh sun
+  127  hostname
+  128  tty
+  129  tty -a
+  130  tty -all
+  131  tty --all
+  132  who 
+  133  who -a
+  134  tty
+  135  ps -auxwww | grep 20835
+  136  tty
+  137  man tty
+  138  man who
+  139  who -a --ips
+  140  exit
+  141  df -kh
+  142  testdisk
+  143  sudo apt-get install testdisk
+  144  testdisk
+  145  clear
+  146  testdisk
+  147  uname
+  148  clear
+  149  exit
+  150  ifconfig
+  151  ssh sun
+  152  ssh pluto
+  153  sudo testdisk 
+  154  clear
+  155  ps -ef
+  156  sudo kill -9 24143
+  157  sudo kill -9 24143 24083
+  158  ps -ef 
+  159  sudo kill -9 24742 24744
+  160  ps -ef 
+  161  sudo kill -9 25178 25180
+  162  ps -ef 
+  163  kill -9 25180 25192 25193 25219
+  164  sudo kill -9 25180 25192 25193 25219
+  165  testdisk
+  166  df
+  167  testdisk
+  168  df -kh 
+  169  cd /dev
+  170  ls
+  171  cd sdb1
+  172  df -kh 
+  173  cd sdb1
+  174  ls -l sdb1
+  175  testdisk
+  176  ls
+  177  cd
+  178  ls
+  179  vi testdisk.log 
+  180  mkdir testdisk
+  181  cd testdisk/
+  182  ls
+  183  df
+  184  cd /media/
+  185  ls
+  186  cd preeti/
+  187  ls
+  188  cd MAPPLE/
+  189  la
+  190  cd Data_Recovery_EHD/
+  191  ls
+  192  apt get install PhotoRec
+  193  apt-get install PhotoRec
+  194  sudo apt-get install PhotoRec
+  195  sudo apt-cache search  PhotoRec
+  196  sudo apt-get install testdisk-dbg
+  197  sudo testdisk-dbg
+  198  df
+  199  clear
+  200  ls -l 
+  201  cd Downloads/
+  202  ls -l 
+  203  ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++                                                                                                                                       
+  204  ls -l 
+  205  testdisk
+  206  cd testdisk/
+  207  testdisk
+  208  df
+  209  sudo shutdown -r now
+  210  ifconfig
+  211  ping preeti-lnx
+  212  ifconfig
+  213  sudo shutdown now
+  214  SU SPARASAR
+  215  su sparasar
+  216  cd 
+  217  cd testdisk/
+  218  ls
+  219  mv testdisk.log testdisk.log_1
+  220  sudo testdisk
+  221  cd 
+  222  cd Downloads/
+  223  ls
+  224  ls -l 
+  225  pwd
+  226  pqs
+  227  pwd
+  228  df 
+  229  df -kh 
+  230  cd /media/
+  231  ls
+  232  ls -l 
+  233  clear
+  234  exit
+  235  kdiff3
+  236  exit
+  237  vncserver 
+  238  sudo apt-get install vnc-viewer
+  239  sudo apt-get install vnc4viewer
+  240  sudo apt-get install xvnc4viewer
+  241  vncviewer 
+  242  xit
+  243  exit
+  244  hostname
+  245  ssh -Y pluto
+  246  exit
+  247  ssh -Y pluto
+  248  exit
+  249  sudo apt-get install tree
+  250  exit
+  251  sudo su
+  252  exit
+  253  cd
+  254  ls
+  255  cd .ssh/
+  256  ls
+  257  ssh-keygen -t rsa -C "preeti.parasar@gmail.com"
+  258  cd
+  259  cd /workspace/
+  260  ls
+  261  mkdir ansible
+  262  ls -l 
+  263  df
+  264  df -kh
+  265  [3~qwertyAWER5T6Y7UIOP[]
+  266  ssh-add ~/.ssh/id_rsa
+  267  ansible all -m ping
+  268  ansible all -m ping -u preeti
+  269  vi /etc/ansible/hosts
+  270  ls -l  /etc/ansible/hosts
+  271  sudo vi   /etc/ansible/hosts
+  272  ansible all -m ping -u preeti
+  273  ansible all -m ping
+  274  ssh pluto
+  275  ansible all -m ping
+  276  ansible all -m ping -vvv
+  277  cat /etc/hosts
+  278  cd
+  279  cd .ssh/
+  280  ls
+  281  cat id_rsa.pub
+  282  cat id_rsa.pub >> authorized_keys
+  283  chmod 600 authorized_keys
+  284  ls -l 
+  285  vi authorized_keys 
+  286  ssh pluto
+  287  ls
+  288  ls -l 
+  289  chmod 600 pluto.rsa 
+  290  ls -l 
+  291  echo "Host myserver" >> config
+  292  echo "Hostname reblets.com" >> config
+  293  echo "IdentityFile ~/.ssh/myserver.rsa" >> config
+  294  vi config 
+  295  ssh pluto
+  296  cd /workspace/
+  297  clear
+  298  ansible all -m ping --sudo
+  299  ansible all -m ping -i preeti --sudo
+  300  ansible all -m ping -u preeti --sudo
+  301  cd /etc/ansible/
+  302  ls
+  303  vi ansible.cfg 
+  304  ansible all -m ping -u preeti --sudo
+  305  ls
+  306  /etc/ansible/group_vars/raleigh
+  307  /etc/ansible/group_vars/webservers
+  308  /etc/ansible/host_vars/foosball
+  309  touch /etc/ansible/host_vars/foosball
+  310  ls
+  311  clear
+  312  ssh pluto 
+  313  ansible all -m ping
+  314  exit
+  315  sudo apt-get install ansible
+  316  ansible-playbook 
+  317  cde
+  318  cd
+  319  ls -l 
+  320  which ansible
+  321  ansible --helpo
+  322  ansible --help
+  323  ansible all -m ping
+  324  ssh-agent bash
+  325  which cobbler
+  326  ansible webservers -m service -a "name=httpd state=restarted"
+  327  vi /etc/ansible/hosts 
+  328  sudo vi /etc/ansible/hosts 
+  329  ansible webservers -m service -a "name=httpd state=restarted"
+  330  sudo vi /etc/ansible/hosts 
+  331  ansible webservers -m service -a "name=httpd state=restarted"
+  332  ansible pluto -m copy -a "src=/etc/hosts dest=/tmp/hosts"
+  333  cd /workspace/
+  334  ls
+  335  sudo mkdir ansible
+  336  sudo chown preeti ansible
+  337  ls -l 
+  338  sudo chown preeti:preeti ansible
+  339  cd ansible
+  340  vi test.yml
+  341  ansible-playbook test.yml 
+  342  vi test.yml
+  343  ansible-playbook test.yml 
+  344  vi test.yml
+  345  ansible-playbook test.yml 
+  346  vi test.yml
+  347  ansible-playbook test.yml 
+  348  vi test.yml
+  349  ansible-playbook test.yml 
+  350  ansible all -m ping
+  351  ansible pluto -m ping
+  352  vi test.yml
+  353  ansible-playbook test.yml 
+  354  vi test.yml
+  355  ansible-playbook test.yml 
+  356  vi test.yml
+  357  ansible-playbook test.yml 
+  358  vi test.yml
+  359  ansible-playbook test.yml 
+  360  vi test.yml
+  361  ansible-playbook test.yml 
+  362  vi test.yml
+  363  ansible-playbook test.yml 
+  364  vi test.yml
+  365  ansible-playbook test.yml 
+  366  vi test.yml
+  367  ansible-playbook test.yml 
+  368  vi test.yml
+  369  ansible-playbook test.yml 
+  370  vi test.yml
+  371  ansible-playbook test.yml 
+  372  vi test.yml
+  373  ansible-playbook test.yml 
+  374  vi test.yml
+  375  ansible-playbook test.yml 
+  376  vi test.yml
+  377  ansible-playbook test.yml 
+  378  vi test.yml
+  379  ansible-playbook test.yml 
+  380  vi test.yml
+  381  ansible-playbook test.yml 
+  382  vi test.yml
+  383  ansible-playbook test.yml 
+  384  ansible-playbook -vvv test.yml 
+  385  ansible-playbook test.yml -k
+  386  vi apaache.yml
+  387  ansible-playbook apaache.yml 
+  388  vi apaache.yml
+  389  ansible-playbook apaache.yml 
+  390  ansible-playbook test.yml 
+  391  vi test.yml
+  392  ansible-playbook test.yml 
+  393  vi test.yml
+  394  cat /etc/hosts
+  395  ssh pluto
+  396  cd /workspace/ansible/
+  397  ls
+  398  ansible test.yml 
+  399  vi test.yml 
+  400  vi /etc/ansible/hosts 
+  401  vi /etc/hosts
+  402  ssh pluto
+  403  vi /etc/hosts
+  404  mkdir makefiles
+  405  cd makefiles/
+  406  vi main.cpp
+  407  vi hello.cpp
+  408  vi factorial.cpp
+  409  vi functions.h
+  410  CC  main.cpp hello.cpp factorial.cpp -o hello
+  411  which CC
+  412  gcc -v
+  413  gcc  main.cpp hello.cpp factorial.cpp -o hello
+  414  vi main.cpp 
+  415  gcc  main.cpp hello.cpp factorial.cpp -o hello
+  416  ls
+  417  vi hello.cpp 
+  418  gcc  main.cpp hello.cpp factorial.cpp -o hello
+  419  vi main.cpp 
+  420  rm * 
+  421  ls
+  422  vi hellomake.c
+  423  vi hellofunc.c
+  424  vi hellomake.h
+  425  gcc -o hellomake hellomake.c hellofunc.c -I.
+  426  ls -l 
+  427  vi Makefile
+  428  rm hellomake
+  429  make
+  430  vi Makefile Makefile.1
+  431  mv Makefile Makefile.1
+  432  ls
+  433  make
+  434  vi Makefile
+  435  make
+  436  vi Makefile
+  437  make
+  438  vi Makefile
+  439  make makefile
+  440  vi Makefile
+  441  make all
+  442  ls
+  443  rm hellomake
+  444  make all
+  445  ls
+  446  vi Makefile
+  447  ls
+  448  make clean
+  449  ls
+  450  make all
+  451  ls -l 
+  452  mkdir old
+  453  mv Makefile.1 old/
+  454  make clean
+  455  make all
+  456  vi Makefile
+  457  make clean
+  458  make all
+  459  ls -l 
+  460  make clean 
+  461  ls -l 
+  462  mv Makefile old/Makefile.2
+  463  vi Makefile
+  464  cat ./old/Makefile.1
+  465  cat ./old/Makefile.2
+  466  vi Makefile
+  467  make all
+  468  vi Makefile
+  469  make all
+  470  ls -l 
+  471  make clean
+  472  ls -l 
+  473  vi Makefile
+  474  make clean
+  475  make all
+  476  ls -l 
+  477  vi Makefile
+  478  make clean
+  479  make all
+  480  ls -l 
+  481  make clean
+  482  rm YXZ 
+  483  vi Makefile 
+  484  make all
+  485  ls -l 
+  486  rm *.o
+  487  ls
+  488  make all
+  489  vi Makefile 
+  490  make all
+  491  ls -l 
+  492  make clean
+  493  ls -l 
+  494  vi Makefile 
+  495  make clean
+  496  make all
+  497  ls -l 
+  498  make clean
+  499  ls
+  500  vi Makefile 
+  501  make all
+  502  vi Makefile 
+  503  make all
+  504  make clean
+  505  make all
+  506  vi Makefile 
+  507  cp Makefile old/Makefile.3
+  508  vi Makefile 
+  509  make all
+  510  vi Makefile 
+  511  make clean
+  512  make all
+  513  ls -l 
+  514  make clean
+  515  cp Makefile old/Makefile.4
+  516  vi Makefile 
+  517  make clean
+  518  make all
+  519  make clean
+  520  cp Makefile old/Makefile.5
+  521  vi Makefile 
+  522  make
+  523  ls -l 
+  524  mkdir obj
+  525  mkdir lib
+  526  mkdir include
+  527  make all
+  528  make 
+  529  ssh pluto
+  530  man gcc
+  531  cat old/Makefile.1
+  532  cat old/Makefile.2
+  533  man ln
+  534  exit
+  535  cd /workspace/
+  536  ls -l 
+  537  cd preeti/
+  538  ls 
+  539  cd git-hub/
+  540  ls
+  541  rm -rf testrepo2 testrepo2.saparasar/
+  542  ls 
+  543  ls -l 
+  544  cd checkbots/
+  545  ls
+  546  cd testrepo2/
+  547  ls 
+  548  vi hellofunc.c 
+  549  git add --all
+  550  git commit -m "Added comments"
+  551  git push
+  552  vi hellofunc.c 
+  553  cp hellofunc.c ../../saparasar/testrepo2/
+  554  cd ../../saparasar/testrepo2/
+  555  ls 
+  556  git add --all
+  557  vi hellofunc.c 
+  558  git commit -m "Added comments"
+  559  git push
+  560  git config --global push.default matching
+  561  git push  
+  562  git status
+  563  vi hellofunc.c 
+  564  git add --all
+  565  git status
+  566  git commit -m "Added comments"
+  567  git config --global user.name "Sanjeev"
+  568  git config --global user.email saparasar@gmail.com
+  569  git commit --amend --reset-author
+  570  git push
+  571  git pull
+  572  clear
+  573  git remote 
+  574  git remote origin
+  575  git remote
+  576  git remote 
+  577  git remote origin
+  578  git branch -vv
+  579  git checkout master
+  580  git branch -vv
+  581  clear
+  582  ls -l 
+  583  git branch
+  584  ls
+  585  vi hellofunc.c 
+  586  git branch -d checkbots-master
+  587  git branch -D checkbots-master
+  588  vi hellofunc.c 
+  589  cp  ../../checkbots/testrepo2/hellofunc.c .
+  590  vi hellofunc.c 
+  591  git add hellofunc.c 
+  592  git commit -m "Added some commets template"
+  593  git push
+  594  git branch
+  595  git branch -vv
+  596  git remote show origin 
+  597  git rev-parse --abbrev-ref --symbolic-full-name @{u}
+  598  git config remote.$(git config branch.master.remote).url
+  599  git config branch.master.remote
+  600  git config remote.origin.url
+  601  git config branch.master.remote
+  602  git config remote.origin.url
+  603  eg info
+  604  git info
+  605  easygit infor
+  606  easygit info
+  607  cat .git/config 
+  608  clear
+  609  cd ../../
+  610  clear
+  611  cd checkbots/
+  612  ls
+  613  cd testrepo2/
+  614  clear
+  615  git remote show origin 
+  616  git pull git@github.com:saparasar/testrepo2.git
+  617  ls -l 
+  618  cd makefile/
+  619  ls
+  620  git status
+  621  vi hellofunc.c 
+  622  git add --all
+  623  git status
+  624  git branch
+  625  git commit -m "Merged from saparasar/testrepo2"
+  626  git push
+  627  git pull
+  628  git log --oneline --decorate --graph
+  629  cd ../../../saparasar/testrepo2/
+  630  ls
+  631  git pull
+  632  clear
+  633  git log --oneline --decorate --graph
+  634  git@github.com:saparasar/testrepo2.git
+  635  git show remote origin
+  636  git  remote show origin
+  637  git config remote.origin.url
+  638  git config remote.$(git config branch.master.remote).url
+  639  git branch
+  640  git  remote show origin
+  641  git log --oneline --decorate --graph
+  642  git log help
+  643  git log --help
+  644  git log --oneline --decorate --graph --format
+  645  git log --oneline --decorate --ancestry-path 
+  646  git log -2 --pretty=format:%h 
+  647  git log --oneline --pretty=format:%h 
+  648  git log --oneline --pretty=format:%h --graph
+  649  git log --oneline --pretty=format:%h --graph --decorate
+  650  git log --oneline --pretty=format:%h,%aN --graph --decorate
+  651  git log --oneline --pretty=format:%h,%aN,%C --graph --decorate
+
+  653  set alias.lgb=log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset%n' --abbrev-commit --date=relative --branches
+  654  git config --global alias.lgb "log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset%n' --abbrev-commit --date=relative --branches"
+  655  git lgb

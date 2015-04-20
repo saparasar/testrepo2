@@ -1,0 +1,2 @@
+git log --graph --all --pretty=format:"%Cblue%h%Creset [%Cgreen%ar%Creset] %s%C(yellow)%d%Creset"
+
